@@ -14,12 +14,15 @@
     "install": "^0.13.0",
     "mongoose": "^8.6.1",
     "ordinal": "^1.0.3",
-    "utf-8-validate": "^6.0.4",
-    "zlib-sync": "^0.1.9"
+    "utf-8-validate": "^6.0.4"
   },
   "name": "polaris",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": {
+    "node": "22.x",
+    "npm": "10.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
