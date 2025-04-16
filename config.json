@@ -3,7 +3,7 @@
 
   "developer_ids": ["713467569725767841"],
 
-  "lockBotToDevOnly": true,
+  "lockBotToDevOnly": false,
   
   "enableWebServer": true,
   
